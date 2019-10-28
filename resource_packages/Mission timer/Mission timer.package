@@ -1,0 +1,11 @@
+mod = [
+	"Mission timer"
+]
+
+package = [
+	"resource_packages/Mission timer/Mission timer"
+]
+
+lua = [
+	"scripts/mods/Mission timer/*"
+]
